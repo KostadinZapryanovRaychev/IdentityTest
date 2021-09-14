@@ -1,0 +1,30 @@
+﻿@model NetCoreFromScratch.Models.LoginViewModel
+@addTagHelper"*,Microsoft.AspNetCore.Mvc.TagHelpers"
+
+
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Login</title>
+</head>
+<body>
+    <p> You are not authonticated </p>
+    <form >
+        UserName: <input asp-for="Username" /><br />
+        Passowrd: <input asp-for="Password" /><br />
+        Remember me: <input asp-for="RememberMe" /><br />
+        <button type="submit">  Login  </button>
+    </form>
+
+
+</body>
+</html>
+
+
