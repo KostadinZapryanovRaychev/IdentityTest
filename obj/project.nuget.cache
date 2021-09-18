@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "td1Omav+eghKhxPSfzcLJCgaBz/AeCXgsewRCWQ8BbDmKoAs2OlP90ttHDeyE9noImRXQEPu5naj/Sqg2UNdsg==",
+  "dgSpecHash": "vaT1bfUa8Qmanm3hHM5iuILBTaTuA4hUG+auDUhASwKrNYZCVh7aBF/nXRn0+zrrlUjqHYbFJJBInQAj9CmAyg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Kostadin\\source\\repos\\NetCoreFromScratch\\NetCoreFromScratch.csproj",
   "expectedPackageFiles": [
@@ -177,7 +177,8 @@
     "C:\\Users\\Kostadin\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
     "C:\\Users\\Kostadin\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
     "C:\\Users\\Kostadin\\.nuget\\packages\\system.xml.xpath\\4.3.0\\system.xml.xpath.4.3.0.nupkg.sha512",
-    "C:\\Users\\Kostadin\\.nuget\\packages\\system.xml.xpath.xdocument\\4.3.0\\system.xml.xpath.xdocument.4.3.0.nupkg.sha512"
+    "C:\\Users\\Kostadin\\.nuget\\packages\\system.xml.xpath.xdocument\\4.3.0\\system.xml.xpath.xdocument.4.3.0.nupkg.sha512",
+    "C:\\Users\\Kostadin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
   ],
   "logs": [
     {
